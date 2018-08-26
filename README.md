@@ -20,6 +20,11 @@ These scripts are an example only and shouldn't be used on a public network.
 They include a hard-coded admin password and several other design decisions
 aimed at producing a compact demo rather than something production-grade.
 
+## Prerequisites
+
+This was developed and tested using Docker for Mac.
+To use in other environments, you may need to modify things like socket permissions.
+
 ## Usage
 
 To build the custom Docker image:
